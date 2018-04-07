@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="planets_array">
+        <item>Macchiato</item>
+        <item>Cappuccino</item>
+        <item>Frappuccino</item>
+        <item>Crunch</item>
+        <item>Coffee</item>
+        <item>Brewed Coffee</item>
+        <item>Misto</item>
+        <item>Caffè</item>
+    </string-array>
+    </resources>
